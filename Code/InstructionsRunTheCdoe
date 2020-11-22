@@ -1,0 +1,27 @@
+Pre-requisites:
+1. Sklearn
+2. Pandas
+3. Numpy
+4. time
+5. Warning
+6. Matplotlib
+7. os
+8. nltk
+9. autocorrect
+10. seaborn 
+
+The "pip install" links to all of them can be found at the Python3/PyPy Documentation. We tried providing the link but depending on the user accessibility mode ( in your oprating system admin/user/group) and Python Version, you will have to search for the link that is compatible with your variant.
+
+
+Steps to run this Project
+Since an .exe or ./a.out file cannot be made available for a .pyc code hence you will have to compile this directly on the terminal.
+The following steps will work in terminal 
+
+1. Make your working directory as the place where you downloaded this folder.
+2. >> cd 2_CO355_CO393_ML_MTEProject/Code/Src
+3. >> python Main.py 
+
+That's it! It should run provided the pre-requisites have been completed. It might take some time depending on the system usage and features (Approx. 2-4 mins). Never-the-less, if there's some problem in running the code, we have attached the snippets of the terminal run from out system. If there's still any problem, we can be reached at our respective college e-mail ids.
+
+Hoping for a fruitful run.
+Regards! 

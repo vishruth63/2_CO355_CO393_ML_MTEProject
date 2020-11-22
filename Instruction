@@ -1,0 +1,20 @@
+The following Project "Fake News Detection" is contributed by 
+
+1. Sourabh 2K18/CO/355
+2. Vishruth Khare 2K18/CO/393
+
+The structure of this folder is 
+i. Instruction
+ii. Project Report 
+iii. Research Paper 
+iv. Code
+	a. Instruction on how to run this code, pre-requisites, etc  
+	b. Dataset 
+	c. Src 
+		-> It has all the files ranging from Classifiers to plotter to time all being invoked in the Main.py
+v. Power Point Presentation
+vi. Results
+
+It was a pleasure being a part of this course and being able to understand the insights of Machine Learning and implement them in a Project as well! 
+
+Regards. 
